@@ -1,0 +1,26 @@
+[
+  {
+    "podcastName": "99vidas",
+    "episode": "99Vidas 635 - Previsões para 2026",
+    "videoId": "Ue7yV9ZbN9U",
+    "category": ["game"]
+  },
+  {
+    "podcastName": "99vidas",
+    "episode": "99Vidas 643 - Os Melhores Jogos de 1987",
+    "videoId": "sZu5xSEODhg",
+    "category": ["game", "nostalgia"]
+  },
+  {
+    "podcastName": "reloading",
+    "episode": "Reloading #486 – NOTÍCIAS DA SEMANA (Gravação AO VIVO)",
+    "videoId": "ThRvDWKovw8",
+    "category": ["game", "noticia"]
+  },
+  {
+    "podcastName": "reloading",
+    "episode": "Reloading #485 – NOTÍCIAS DA SEMANA (Gravação AO VIVO)",
+    "videoId": "AzvbHpr5py8",
+    "category": ["game", "noticia"]
+  }
+]
